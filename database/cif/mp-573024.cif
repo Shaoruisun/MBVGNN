@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Na2Cu5(Si2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83406349
+_cell_length_b   7.92654718
+_cell_length_c   8.11425982
+_cell_angle_alpha   63.31870005
+_cell_angle_beta   86.92592852
+_cell_angle_gamma   68.91726801
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Cu5(Si2O7)2
+_chemical_formula_sum   'Na2 Cu5 Si4 O14'
+_cell_volume   310.20601001
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.23167200  0.63143200  0.05898900  1
+  Na  Na1  1  0.76832800  0.36856800  0.94101100  1
+  Cu  Cu2  1  0.81454900  0.06464400  0.77422700  1
+  Cu  Cu3  1  0.50000000  0.50000000  0.50000000  1
+  Cu  Cu4  1  0.18545100  0.93535600  0.22577300  1
+  Cu  Cu5  1  0.41684200  0.89552300  0.68054000  1
+  Cu  Cu6  1  0.58315800  0.10447700  0.31946000  1
+  Si  Si7  1  0.69112000  0.71338500  0.09090400  1
+  Si  Si8  1  0.98568300  0.26104100  0.36466300  1
+  Si  Si9  1  0.01431700  0.73895900  0.63533700  1
+  Si  Si10  1  0.30888000  0.28661500  0.90909600  1
+  O  O11  1  0.19641200  0.11008900  0.97075300  1
+  O  O12  1  0.06376300  0.50444500  0.79431600  1
+  O  O13  1  0.09140000  0.85835200  0.73341900  1
+  O  O14  1  0.90860100  0.14164800  0.26658100  1
+  O  O15  1  0.28046500  0.14396700  0.44872000  1
+  O  O16  1  0.42294700  0.30422100  0.07724200  1
+  O  O17  1  0.93623700  0.49555500  0.20568400  1
+  O  O18  1  0.80358800  0.88991100  0.02924700  1
+  O  O19  1  0.71953500  0.85603300  0.55128000  1
+  O  O20  1  0.80714000  0.27911400  0.52499800  1
+  O  O21  1  0.48578200  0.70520800  0.24301400  1
+  O  O22  1  0.51421800  0.29479200  0.75698600  1
+  O  O23  1  0.19286000  0.72088600  0.47500200  1
+  O  O24  1  0.57705300  0.69577900  0.92275800  1
